@@ -1,0 +1,6 @@
+plant_id,plant_name,plant_type,capacity_mw,location,status
+1,Solar Alpha,Solar,50,Region A,Active
+2,Wind Beta,Wind,120,Region B,Active
+3,Hydro Gamma,Hydro,300,Region C,Active
+4,Solar Delta,Solar,80,Region A,Under Maintenance
+5,Wind Epsilon,Wind,150,Region D,Active
