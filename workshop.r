@@ -224,6 +224,7 @@ display(read_wfs)
 # COMMAND ----------
 
 library(sparklyr)
+library(dplyr)
 
 catalog <- dbutils.widgets.get("catalog_name")
 schema <- dbutils.widgets.get("schema_name")
